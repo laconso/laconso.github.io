@@ -1,7 +1,7 @@
 body {
     color: white;
     text-align: center;
-    background-image: linear-gradient(rgba(255,255,255,0.48),rgba(255,255,255,0.48)),url("../Images/pyramids.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.48),rgba(255,255,255,0.48)),url("../unit_3/Images/pyramids.jpg");
 	background-size: cover;
 }
 h1 {
