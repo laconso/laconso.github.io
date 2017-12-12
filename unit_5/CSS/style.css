@@ -1,0 +1,33 @@
+body { 
+	background-color: rgb(143,196,126);
+	font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+}
+nav{
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	color: black;
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+#wrapper {
+	width: 960px;
+	margin:0 auto;
+}
+
+header{
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
